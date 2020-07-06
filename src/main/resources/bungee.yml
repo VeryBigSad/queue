@@ -1,0 +1,4 @@
+name: QueuePlugin
+version: ${project.version}
+main: me.khrmff.queueplugin.QueuePlugin
+description: yes

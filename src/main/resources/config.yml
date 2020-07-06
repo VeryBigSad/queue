@@ -1,0 +1,17 @@
+# this one is obvious
+queue-position-message: "&2Your position in queue: <POSITION>/<QUEUESIZE>"
+
+# name of a server in which players wait in
+queue-server-name: "queue-server"
+
+# name of a server in which players play in
+main-server-name: "main-server"
+
+# how much seconds till message queue-position-message
+seconds-per-queue-position-message: 20
+
+# how much people can main server handle?
+max-main-server-players: 0
+
+# when player quits queue what he sees?
+player-join-message: "&4congrats dude, you made it out of queue!"
